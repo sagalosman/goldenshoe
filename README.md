@@ -2,6 +2,8 @@
 
 ## Available Scripts
 
+View it here: goldenshoe1.netlify.app
+
 #### `npm install`
 
 #### `npm start`
